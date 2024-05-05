@@ -1,1 +1,1 @@
-# hw_2-VBA
+In this project we learned how to apply formulaic reponses to our condentional formatting. This process allowed us to aggregate information and present a more easily digestible fact founded presentation. 
